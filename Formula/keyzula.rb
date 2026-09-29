@@ -1,5 +1,5 @@
 class Keyzula < Formula
-  desc "KeyZula password manager CLI with a built-in SSH agent"
+  desc "Password manager CLI with a built-in SSH agent"
   homepage "https://keyzula.com"
   license :cannot_represent
 
