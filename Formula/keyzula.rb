@@ -5,23 +5,23 @@ class Keyzula < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/KeyZula/homebrew-tap/releases/download/v1.2.0/keyzula-1.2.0-darwin-arm64.tar.gz"
-      sha256 "ee0a3b6a6f73f92998c64b6f1b12aa193e8453317f0524064b9d371a9e6eacab"
+      url "https://github.com/KeyZula/homebrew-tap/releases/download/v1.2.1/keyzula-1.2.1-darwin-arm64.tar.gz"
+      sha256 "2b281c3b19ffe6e3311c03a8dd532c9b0d509dd40a35e2e227ee1878722c1dda"
     end
     on_intel do
-      url "https://github.com/KeyZula/homebrew-tap/releases/download/v1.2.0/keyzula-1.2.0-darwin-x64.tar.gz"
-      sha256 "7c880af5415b26345da64791b22090430ab9564c243d959e10814aae5cf8cc66"
+      url "https://github.com/KeyZula/homebrew-tap/releases/download/v1.2.1/keyzula-1.2.1-darwin-x64.tar.gz"
+      sha256 "6e723ac7d23389ef4d52fa99916b9d0626877387a4e178086adb9d89961f537e"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/KeyZula/homebrew-tap/releases/download/v1.2.0/keyzula-1.2.0-linux-arm64.tar.gz"
-      sha256 "fe37ce77c3f2d79627a3593f9e9b875c6741f59c4cd471e397806eba5120f044"
+      url "https://github.com/KeyZula/homebrew-tap/releases/download/v1.2.1/keyzula-1.2.1-linux-arm64.tar.gz"
+      sha256 "f4951f05bad5fe80852fc9713cb9be48ada5a1626ea1bd9750e72f51c3048dfb"
     end
     on_intel do
-      url "https://github.com/KeyZula/homebrew-tap/releases/download/v1.2.0/keyzula-1.2.0-linux-x64.tar.gz"
-      sha256 "22732265b7e7c8acc84343d872b6b82a03361d831984e5800f957f916c10181a"
+      url "https://github.com/KeyZula/homebrew-tap/releases/download/v1.2.1/keyzula-1.2.1-linux-x64.tar.gz"
+      sha256 "b49344496b13c723ae4ef710319dfd41d4fc6a8f2a9cd26362840faf1e7bf7a8"
     end
   end
 
